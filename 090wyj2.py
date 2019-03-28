@@ -43,3 +43,4 @@ while keep_going:
 
 #结束
 pygame.quit()
+sfahskdfhkajsdklfaf
